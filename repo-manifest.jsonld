@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/warner/python-ed25519/commit/d57b8f2c7edffff3419d58443ccc29a4fa399a71",
       "git:hexsha": "d57b8f2c7edffff3419d58443ccc29a4fa399a71",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.5",
+      "repolex:parsedAt": "2026-10-19T12:03:19.070832+00:00"
     },
     {
       "@id": "https://repolex.ai/r/warner/python-ed25519/commit/ec22d6e7ffa84cdcec641fc79ae4d979b656a29f",
